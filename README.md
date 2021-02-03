@@ -18,7 +18,7 @@
 
 &NewLine;
 
-<div style="text-align:center"><img src="images/gui_screenshot.png" width=300 ></div>
+<p align="center"><img src="images/gui_screenshot.png" width=300 ></p>
 
 &NewLine;
 
@@ -31,4 +31,4 @@
 
 &NewLine;
 
-<div style="text-align:center"><img src="images/folder_screenshot.png"></div>
+<p align="center"><img src="images/folder_screenshot.png"></p>
