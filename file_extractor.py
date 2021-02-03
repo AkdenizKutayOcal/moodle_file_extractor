@@ -24,7 +24,7 @@ main_color = "#263D42"
 second_color = "#263D35"
 
 
-def run_code():
+def file_extraction():
     global start_time
     chrome_options = Options()
     chrome_options.add_experimental_option('prefs', {
@@ -161,9 +161,9 @@ def extract_all_files():
             root.destroy()
             # for element in main_frame.winfo_children():
             #     element.destroy()
-            # # threading.Thread(target=run_code).start()
-            # run_code()
-            run_code()
+            # # threading.Thread(target=file_extraction).start()
+            # file_extraction()
+            file_extraction()
 
 
 if __name__ == '__main__':
