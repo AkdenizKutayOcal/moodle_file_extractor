@@ -4,7 +4,9 @@
 
 &NewLine;
 
-    This program is designed to extract the files that are uploaded to TEDUMoodle of all of courses that your are enrolled in a semester. The "Course Files" folder is created in the selected location and the related files are categorized under the course folders. Written in Python. Selenium and Tkinter are used.
+    This program is designed to extract the files of all of courses that your are enrolled in a semester in TEDUMoodle. 
+    The "Course Files" folder is created in the selected location and the related files are categorized under the course folders. 
+    Written in Python. Selenium and Tkinter are used.
 
 ### Requirements
     
